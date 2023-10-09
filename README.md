@@ -1,5 +1,5 @@
 # About
-This is a simple and minimalist stopwatch app for Android developed using Kotlin based on Jetpack Compose. It offers various features and utilizes modern Android development practices.
+Simple and minimalist stopwatch app for Android developed using Kotlin based on Jetpack Compose. It offers various features and utilizes modern Android development practices.
 
 # Features
 * Start: Start the stopwatch timer.
